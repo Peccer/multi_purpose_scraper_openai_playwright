@@ -1,0 +1,8 @@
+openai
+loguru
+streamlit
+pandas
+python-dotenv
+playwright
+nest-asyncio
+asyncio
