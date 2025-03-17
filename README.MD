@@ -1,6 +1,6 @@
-# Multi-Company Data Finder & Scraper
+# Multi-Purpose Data Finder & Scraper
 
-This repository contains a Streamlit-based application that uses OpenAI's Responses API to collect specific data fields for multiple entities. An entity can be a **company name** or a **URL**. 
+This repository contains a Streamlit-based application that uses OpenAI's Responses API to collect specific data fields for multiple entities. An entity can be anything from a **company name** or a **URL** or **whatever you want**. 
 
 Depending on whether the entity is recognized as a URL, the application either:
 - **Uses OpenAI’s built-in `web_search` tool** to look up general information (when the user input is **not** recognized as a URL or domain).  
